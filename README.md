@@ -1,8 +1,16 @@
+# Single Label Music Genre Classifier
+
 A single-label music genre classifier system based on
 the training dataset provided by the [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) 
 Dataset on Kaggle.
 
-This is my initial project and decided to work with traditional machine-learning
+This is my initial project made while my course on Machine Learning.
+
+For a more experimental project, I also decided to extend this project
+to predict [multiple genres](https://github.com/Hetan07/Multi-Label-Music-Genre-Classifier) at the same time.
+
+
+Here, I decided to work with traditional machine-learning
 algorithms namely:
 
 - K-Nearest Neighbours
